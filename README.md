@@ -63,6 +63,19 @@ A matriz de confusão gerada (e logada no W&B) confirma o excelente desempenho d
 *   Tqdm
 *   Google Colab
 
+## Resultados obtidos:
+![image](https://github.com/user-attachments/assets/0d999558-f3a2-48fc-93f8-01aeff6d04d5)
+
+![image](https://github.com/user-attachments/assets/182046a3-0131-4d7f-a7fe-7d8c4a35a13d)
+
+![image](https://github.com/user-attachments/assets/a5349ecd-bd42-4d4e-b850-ac364a008a8a)
+
+![image](https://github.com/user-attachments/assets/4a02af4b-d985-4e11-8303-7e4778efc9e6)
+
+![image](https://github.com/user-attachments/assets/9dec4d45-6ee0-45b5-8cfb-41b7126fc70a)
+
+
+
 ## ⚙️ Configuração e Instalação
 
 1.  **Clone o Repositório:**
